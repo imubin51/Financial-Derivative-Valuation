@@ -1,3 +1,5 @@
+<img width="1424" height="752" alt="image_eadba6b6" src="https://github.com/user-attachments/assets/ef411aad-04d2-401d-a79c-dff662049f49" />
+
 # Embedded Loan Prepayment Option Valuation using Longstaff-Schwartz Monte Carlo
 
 ## Overview
